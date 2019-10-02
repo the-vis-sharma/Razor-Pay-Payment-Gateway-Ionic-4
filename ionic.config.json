@@ -1,5 +1,7 @@
 {
   "name": "payment-gateway",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
